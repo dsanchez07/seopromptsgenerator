@@ -1,7 +1,7 @@
 ---
 permalink: /el-futuro-de-los-blogs-la-influencia-de-la-inteligencia-artificial-ia/
 subtitle: 
-title: El Futuro de los Blogs La Influencia de la Inteligencia Artificial (IA)
+title: El Futuro de los Blogs: La Influencia de la Inteligencia Artificial (IA)
 date: 2024-09-24
 fecha: 24 de septiembre de 2024
 tags: ["post", "figma"]
