@@ -1,18 +1,20 @@
 ---
 permalink: /most-ashamed-laptop/
 subtitle: 
-title: La Filtración del Algoritmo de Búsqueda de Google
-date: 2024-06-04
-fecha: 4 de junio de 2024
+title: La Filtración del Algoritmo de Búsqueda de Bing
+date: 2024-09-24
+fecha: 24 de septiembre de 2024
 tags: ["post", "figma"]
 image: /assets/static/images/6.jpg
 imageAlt: Ilustración de un equipo trabajando en un Design System
 eleventyComputed:
-  metaTitle: La Filtración del Algoritmo de Búsqueda de Google
+  metaTitle: La Filtración del Algoritmo de Búsqueda de Bing
   metaDescription: 
   metaKeywords: "design systems, diseño, figma"
   metaRobots: "index, follow"
 ---
+
+
 
 ## La Filtración del Algoritmo de Búsqueda de Google: Lo que Debes Saber
 
