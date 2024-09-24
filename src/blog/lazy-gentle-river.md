@@ -8,7 +8,7 @@ tags: ["post", "figma"]
 image: /assets/static/images/6.jpg
 imageAlt: Ilustración de un equipo trabajando en un Design System
 eleventyComputed:
-  metaTitle: El Futuro de los Blogs: La Influencia de la Inteligencia Artificial (IA)
+  metaTitle: El Futuro de los Blogs La Influencia de la Inteligencia Artificial (IA)
   metaDescription: 
   metaKeywords: "design systems, diseño, figma"
   metaRobots: "index, follow"
