@@ -1,18 +1,22 @@
 ---
 permalink: /Que-es-un-Design-System/
-subtitle: El Poder de los Sistemas de Diseños
+subtitle: El Poder de los design systems
+
 title: ¿Qué es un Design System?
-date: 2023-08-18
-fecha: 18 de agosto de 2023
-tags: ["sistemas de diseño", "diseño eficiente", "experiencia en línea", "UI", "UX"]
-image: https://res.cloudinary.com/rangle/image/upload/w_auto,q_auto,dpr_auto,f_auto/v1659118861/rangle.io/blogs/what-is-a-design-system/feature-photo.png
-imageAlt: Ilustración de componentes de diseño trabajando juntos
+date: 2024-09-24
+fecha: 24 de septiembre de 2024
+tags: ["post", "figma"]
+image: /assets/static/images/6.jpg
+imageAlt: Ilustración de un equipo trabajando en un Design System
 eleventyComputed:
-  metaTitle: ¿Qué es un Design System?  | design-systems.es
-  metaDescription: Descubre cómo los sistemas de diseño (Design Systems) pueden mejorar la eficiencia del diseño y crear experiencias en línea excepcionales. ¡Optimiza tu sitio web hoy mismo!
-  metaKeywords: "sistemas de diseño, diseño eficiente, experiencia en línea, UI, UX"
+  metaTitle: ¿Qué es un Design System?
+  metaDescription: El Poder de los design systems
+
+  metaKeywords: "design systems, diseño, figma"
   metaRobots: "index, follow"
 ---
+
+
 
 {% br2 %}
 
